@@ -4,7 +4,7 @@ subtitle:
 short_title: Optional short title # Delete if not required
 
 author:  Ram Ghimire
-affiliation: CSIRO Business Unit # Or group/team
+affiliation: CSIRO Agriculture & Food/Maximisig Yield Potential # Or group/team
 photo: resources/img/photo.jpeg
 
 output: DSreport::project_summary
